@@ -8,7 +8,7 @@
     * 伊計島セミナー2024スタッフ ([HP](https://seminar.npo-tsubasa.jp/island2024/))
     * 44回夏季セミナースタッフ長 ([HP](https://seminar.npo-tsubasa.jp/44/))
 * 湧源
-* NPO法人Science Station コアWG長 ([HP](https://sciencestation.jp/))
+* NPO法人Science Station ([HP](https://sciencestation.jp/))
     * 銀河学校2021 参加 (2021.03, [HP](https://sciencestation.jp/activities/2021/gs24/index.html))
     * 松江出前授業2022 アシスタント (2022.12, [活動報告書](http://www.sciencestation.jp/activities/2022/delivery92/index.html))
     * サイエンスカフェ in 松江 2022 スタッフ (2022.12, [活動報告書](http://www.sciencestation.jp/activities/2022/cafe_matsue18/index.html))
@@ -19,4 +19,5 @@
     * 松江出前授業2022 幹事, 講師 (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/delivery93/index.html))
     * サイエンスカフェ in 松江 2023 スタッフ (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/cafe_matsue19/index.html))
     * コアWG WG長 (2024.01-)
+    * サーバーWG 所属 (2024.01-)
 * 地学オリンピックOB/OG会 会長 (2023.09-, [HP](https://jeso.jp/obog/))
