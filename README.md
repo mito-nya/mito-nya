@@ -13,7 +13,7 @@
     * 松江出前授業2022 アシスタント (2022.12, [活動報告書](http://www.sciencestation.jp/activities/2022/delivery92/index.html))
     * サイエンスカフェ in 松江 2022 スタッフ (2022.12, [活動報告書](http://www.sciencestation.jp/activities/2022/cafe_matsue18/index.html))
     * 銀河学校25周年記念同窓会 幹事 (2022.12, [活動報告書](http://www.sciencestation.jp/activities/2022/gs25th/index.html))
-    * 星の教室 TA (2024.03)
+    * 星の教室 TA (2023.03)
     * 銀河学校2023 TA (2023.03, [活動報告書](http://www.sciencestation.jp/activities/2023/gs26/index.html))
     * 星の教室 TA (2023.07)
     * 松江出前授業2022 幹事, 講師 (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/delivery93/index.html))
