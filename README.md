@@ -20,4 +20,4 @@
     * サイエンスカフェ in 松江 2023 スタッフ (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/cafe_matsue19/index.html))
     * コアWG WG長 (2024.01-)
     * サーバーWG 所属 (2024.01-)
-* 地学オリンピックOB/OG会 会長 (2023.09-, [HP](https://jeso.jp/obog/))
+* 地学オリンピックOB/OG会 会長 (2023.09-2024.09, [HP](https://jeso.jp/obog/))
