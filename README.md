@@ -1,12 +1,12 @@
 # 所属等
-* 京都大学理学部理学科宇宙物理学教室B3
+* 京都大学理学部理学科宇宙物理学教室B4
 * 日本天文学オリンピック委員会 ([HP](https://iaojapan.org/))
 * 数理の翼
-    * Nセミナー2021参加 ([HP](https://seminar.npo-tsubasa.jp/n2021/))
-    * 伊計島セミナー2022スタッフ ([HP](https://seminar.npo-tsubasa.jp/island2022/))
-    * 43回夏季セミナースタッフ ([HP](https://seminar.npo-tsubasa.jp/43/))
-    * 伊計島セミナー2024スタッフ ([HP](https://seminar.npo-tsubasa.jp/island2024/))
-    * 44回夏季セミナースタッフ長 ([HP](https://seminar.npo-tsubasa.jp/44/))
+    * 数理の翼Nセミナー2021 参加 ([HP](https://seminar.npo-tsubasa.jp/n2021/))
+    * 数理の翼伊計島セミナー2022 スタッフ ([HP](https://seminar.npo-tsubasa.jp/island2022/))
+    * 第43回数理の翼夏季セミナー スタッフ ([HP](https://seminar.npo-tsubasa.jp/43/))
+    * 数理の翼伊計島セミナー2024 スタッフ ([HP](https://seminar.npo-tsubasa.jp/island2024/))
+    * 第44回数理の翼夏季セミナー スタッフ長 ([HP](https://seminar.npo-tsubasa.jp/44/))
 * 湧源
 * NPO法人Science Station ([HP](https://sciencestation.jp/))
     * 銀河学校2021 参加 (2021.03, [HP](https://sciencestation.jp/activities/2021/gs24/index.html))
@@ -16,8 +16,12 @@
     * 星の教室 TA (2023.03)
     * 銀河学校2023 TA (2023.03, [活動報告書](http://www.sciencestation.jp/activities/2023/gs26/index.html))
     * 星の教室 TA (2023.07)
-    * 松江出前授業2022 幹事, 講師 (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/delivery93/index.html))
+    * 松江出前授業2023 幹事, 講師 (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/delivery93/index.html))
     * サイエンスカフェ in 松江 2023 スタッフ (2023.12, [活動報告書](http://www.sciencestation.jp/activities/2023/cafe_matsue19/index.html))
     * コアWG WG長 (2024.01-)
     * サーバーWG 所属 (2024.01-)
+    * 松江出前授業2024 幹事, 講師 (2024.12, [活動報告書](http://www.sciencestation.jp/activities/2024/delivery94/index.html))
+    * サイエンスカフェ in 松江 2024 スタッフ (2024.12, [活動報告書](http://www.sciencestation.jp/activities/2024/cafe_matsue20/index.html))
+    * 松江出前授業2025 講師, 幹事補佐 (2025.12, [活動報告書](http://www.sciencestation.jp/activities/2025/delivery95/index.html))
+    * サイエンスカフェ in 松江 2025 スタッフ (2025.12, [活動報告書](http://www.sciencestation.jp/activities/2025/cafe_matsue21/index.html))
 * 地学オリンピックOB/OG会 会長 (2023.09-2024.09, [HP](https://jeso.jp/obog/))
